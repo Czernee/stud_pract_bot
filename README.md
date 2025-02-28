@@ -25,7 +25,7 @@
 2.  Клонируйте репозиторий:
 
     ```
-    git clone (https://github.com/Czernee/stud_pract_bot
+    git clone https://github.com/Czernee/stud_pract_bot
     ```
 
 3.  Перейдите в папку проекта:
